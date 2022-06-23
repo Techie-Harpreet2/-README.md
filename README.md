@@ -1,4 +1,4 @@
-<!-- Copyrights mitthu786  -->
+
 
 <p align="center"><a href="https://t.me/"><img src="https://thumbs.gfycat.com/AccomplishedSoggyBlackbird-max-1mb.gif" alt="Hello" /></a></p>
 
@@ -60,9 +60,6 @@
 
 ## ⚡️ ꜱᴛᴀᴛꜱ 
 
-![Mitthu786's github stats](https://github-stats-alpha.vercel.app/api/?username=harpreet151)
+(https://github-stats-alpha.vercel.app/api/?username=harpreet151)
 
-<!---
-mithhu786/mithhu786 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
