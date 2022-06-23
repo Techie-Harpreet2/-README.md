@@ -60,6 +60,6 @@
 
 ## ⚡️ ꜱᴛᴀᴛꜱ 
 
-(https://github-stats-alpha.vercel.app/api/?username=harpreet151)
+![Harpreet151's github stats](https://github-stats-alpha.vercel.app/api/?username=harpreet151)
 
 
