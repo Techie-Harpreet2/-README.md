@@ -39,6 +39,7 @@
 <a href="https://www.w3schools.com/bootstrap/" target="_blank"> <img align="left" alt="BootStrap" width="26px" src="https://brandslogos.com/wp-content/uploads/images/large/bootstrap-logo.png"/> </a>
 
 <a href="https://www.w3schools.com/js/" target="_blank"> <img align="left" alt="JavaScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"/> </a>
+<a href="https://www.w3schools.com/django/" target="_blank"> <img align="left" alt="Django" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/django-5.svg?raw=true"/> </a>
 
 <br />
 <br />
@@ -50,7 +51,7 @@
 <a href="https://www.adobe.com/in/" target="_blank"> <img align="left" alt="LightRoom" width="46px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Adobe_Corporate_logo.svg/1200px-Adobe_Corporate_logo.svg.png"/> </a> 
 <a href="https://www.photoshop.com/en" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1051px-Adobe_Photoshop_CC_icon.svg.png"/> </a>
 <a href="https://www.blender.org" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://download.blender.org/branding/community/blender_community_badge_orange.png"/> </a>
-<a href="https://www.w3schools.com/django/" target="_blank"> <img align="left" alt="Django" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/django-5.svg?raw=true"/> </a>
+
 
 
 <br />
