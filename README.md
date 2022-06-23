@@ -14,7 +14,7 @@
 </p>
 
 
-<p align="center"> <a href="https://github.com/mitthu786/"><img width="170px" height="24" src="https://komarev.com/ghpvc/?username=mitthu786&label=PROFILE%20VISITORS&color=blueviolet&style=flat-square" alt="mitthu786" /></a> </p><br>
+<p align="center"> <a href="https://github.com/harpreet151/"><img width="170px" height="24" src="https://komarev.com/ghpvc/?username=harpreet151&label=PROFILE%20VISITORS&color=blueviolet&style=flat-square" alt="mitthu786" /></a> </p><br>
 
 ## ⚔️ ᴀʙᴏᴜᴛ ᴍᴇ : <br>
 
