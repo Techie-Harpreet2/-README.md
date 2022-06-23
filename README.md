@@ -7,8 +7,8 @@
 <p align='center'> 
 <a href="https://codepen.io/"><img height="25" src="https://img.shields.io/badge/codepen-green.svg?&style=for-the-badge&logo=codepen&logoColor=white"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/"><img height="25" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>&nbsp;&nbsp;
-<a href=""><img height="25" src="https://img.shields.io/badge/Website-%23354230.svg?&style=for-the-badge&logo=medium&logoColor=white"></a>&nbsp;&nbsp;
-<a href="https://instagram.com/"><img height="25" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>&nbsp;&nbsp;
+<a href="https://harpreetsinghbansal.com/"><img height="25" src="https://img.shields.io/badge/Website-%23354230.svg?&style=for-the-badge&logo=medium&logoColor=white"></a>&nbsp;&nbsp;
+<a href="https://instagram.com/techieharpreet"><img height="25" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>&nbsp;&nbsp;
 <a href="https://www.hackerrank.com/"><img height="25" src="https://img.shields.io/badge/hackerrank-%23ffffff.svg?&style=for-the-badge&logo=hackerrank&logoColor=green"></a>&nbsp;&nbsp;   
 <a href=""><img height="25" src="https://img.shields.io/badge/join discord-%23ffffff.svg?&style=for-the-badge&logo=discord&logoColor=blue"></a>&nbsp;&nbsp; 
 </p>
