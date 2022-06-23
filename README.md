@@ -39,7 +39,7 @@
 <a href="https://www.w3schools.com/bootstrap/" target="_blank"> <img align="left" alt="BootStrap" width="26px" src="https://brandslogos.com/wp-content/uploads/images/large/bootstrap-logo.png"/> </a>
 
 <a href="https://www.w3schools.com/js/" target="_blank"> <img align="left" alt="JavaScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"/> </a>
-<a href="https://www.w3schools.com/django/" target="_blank"> <img align="left" alt="Django" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/django-5.svg?raw=true"/> </a>
+<a href="https://www.w3schools.com/django/" target="_blank"> <img align="left" alt="Django" width="26px" src="https://icon-library.com/images/django-icon/django-icon-0.jpg"/> </a>
 
 <br />
 <br />
