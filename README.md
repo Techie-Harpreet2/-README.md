@@ -58,7 +58,7 @@
 
 ## ⚡️ ꜱᴛᴀᴛꜱ 
 
-![Mitthu786's github stats](https://github-stats-alpha.vercel.app/api/?username=mitthu786)
+![Mitthu786's github stats](https://github-stats-alpha.vercel.app/api/?username=harpreet151)
 
 <!---
 mithhu786/mithhu786 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
