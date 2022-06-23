@@ -20,10 +20,9 @@
 
 ✔️ 👋 HI, I'M Harpreet .<br>
 ✔️ 👀 I'M Interesterd In Coding & Ehical Hacking  .<br>
-✔️ 🤠 ɪ’ᴍ ᴀʟʀᴇᴀᴅʏ ᴋɴᴏᴡ ᴄ , ʜᴛᴍʟ , ᴊᴀᴠᴀꜱᴄʀɪᴘᴛ , ʙᴏᴏᴛꜱᴛʀᴀᴘ , ᴍʏꜱQʟ , ᴄꜱꜱ & xᴍʟ . <br>
-✔️ 📝 ɪ’ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ ᴘʜᴘ, ᴘʏᴛʜᴏɴ & ꜱᴏᴍᴇ ᴇᴛʜɪᴄᴀʟ ꜱᴛᴜꜰꜰꜱ .<br>
-✔️ 🤹‍♂️ ꜰᴏʀ ᴄʜɪʟʟ ᴊᴏɪɴ ᴅɪꜱᴄᴏʀᴅ :- <br>
-✔️ 📧 ᴇ-ᴍᴀɪʟ ᴀᴛ :- mitthu786@protonmail.com <br>
+✔️ 🤠 I'M Already Know , C , Python, DJANGO , HTML , JAVASCRIPT , BOOTSTRAP , MYSQL , CSS & XML . <br>
+✔️ 📝 ɪ’ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ ᴘʜᴘ, Ehical Hacking .<br>
+✔️ 📧 ᴇ-ᴍᴀɪʟ ᴀᴛ :- techieharpreet@proton.com <br>
 ✔️ ☎ ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ :- <a href="https://t.me/">Telegram</a><br>
 
 
