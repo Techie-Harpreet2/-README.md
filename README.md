@@ -21,9 +21,9 @@
 ✔️ 👋 HI, I'M Harpreet .<br>
 ✔️ 👀 I'M Interesterd In Coding & Ehical Hacking  .<br>
 ✔️ 🤠 I'M Already Know , C , Python, DJANGO , HTML , JAVASCRIPT , BOOTSTRAP , MYSQL , CSS & XML . <br>
-✔️ 📝 ɪ’ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ ᴘʜᴘ, Ehical Hacking .<br>
-✔️ 📧 ᴇ-ᴍᴀɪʟ ᴀᴛ :- techieharpreet@proton.com <br>
-✔️ ☎ ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ :- <a href="https://t.me/">Telegram</a><br>
+✔️ 📝 I"M Currently Learning PHP & Ehical Hacking .<br>
+✔️ 📧 E-Mail At :- techieharpreet@proton.com <br>
+✔️ ☎ Contact Me :- <a href="https://t.me/">Telegram</a><br>
 
 
 ## ⚓ ʟᴀɴɢᴜᴀɢᴇꜱ ᴀɴᴅ ᴛᴏᴏʟꜱ :
